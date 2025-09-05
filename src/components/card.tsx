@@ -61,7 +61,7 @@ const Card = () => {
             </>
           ) : (
             <p className="font-serif text-lg italic text-slate-700 dark:text-[#573030]">
-              Loading… (waking backend if it was asleep)
+              Loading… 
             </p>
           )}
         </div>
